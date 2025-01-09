@@ -16,7 +16,9 @@
 #include <sys/stat.h>
 #include <fcntl.h>
 #include <stdbool.h>
+#include <stdlib.h>
 #include <dirent.h>
+#include <unistd.h>
 
 #include "battery.h"
 

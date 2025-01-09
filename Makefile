@@ -1,7 +1,7 @@
 all: battery
 
 clean:
-	rm battery libbattery.o
+	rm -f battery libbattery.o
 
 # CFLAGS=-Wall
 
